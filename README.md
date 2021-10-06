@@ -1,6 +1,6 @@
 # Godot Risk-like Map
 
-![Title](screenshot.png)
+![Title](screenshot.PNG)
 
 ## About
 
